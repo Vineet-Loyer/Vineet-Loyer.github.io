@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as wepage for Vineet Loyer</a>.
+  Welcome! This site serves as wepage for Vineet Loyer.
 </p>
 
 <p>
