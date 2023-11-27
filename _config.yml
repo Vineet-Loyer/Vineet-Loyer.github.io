@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Scientist
 baseurl: "" # the subpath of the site
 url: "https://Vineet-Loyer.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile.jpg
+og_image: /assets/img/Profile-Vineet.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -24,9 +24,6 @@ footer:
       link: mailto:vineet.loyer@gmail.com    
       link: "#"
   follow:
-    - #name: Twitter
-      #link: http://twitter.com/YourTwitterUsername
-      #username: "@YourTwitterUsername"
     - name: Facebook
       link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
