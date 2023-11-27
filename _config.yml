@@ -8,27 +8,28 @@ baseurl: "" # the subpath of the site
 url: "https://Vineet-Loyer.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
+remote_theme: eliottvincent/bay
 
 header:
   pages:
     - name: Home
       slug: /
-    - name: Education
-    - name: Work
+    - name: Projects
+      slug: /projects
     - name: Blog
-    - name: Photography 
+      slug: /blog
+    - name: Contact
+      slug: /contact
     
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: vineet.loyer@gmail.com
       link: mailto:vineet.loyer@gmail.com    
       link: "#"
   follow:
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
       link: http://linkedin.com/in/Vineet-Loyer
     - name: GitHub
