@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Scientist
 baseurl: "" # the subpath of the site
 url: "https://Vineet-Loyer.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/profile.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -20,10 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
+      value: vineet.loyer@gmail.com
+      link: mailto:vineet.loyer@gmail.com    
       link: "#"
   follow:
     - name: Twitter
@@ -35,10 +33,7 @@ footer:
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
       link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+    
 
 # Build settings
 markdown: kramdown
