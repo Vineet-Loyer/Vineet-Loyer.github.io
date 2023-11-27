@@ -10,22 +10,26 @@ slug: /projects
   <div class="outer">
     <div class="card">
       <div class="info">
-        <h3 class="title">Jan 2023 - Present: Fixel Based Analysis</h3>
-        <p align="justify">This project aims at finding biomarkers for migraine using the fixel-based analysis pipeline of MRtrix3 and diffusion-weighted magnetic resonance imaging data.</p>
+        <h3 class="title">Breast Cancer Detection Using Machine Learning</h3>
+        <p align="justify">Developed a Machine Learning model for accurately detecting breast cancer within sampled datasets, attaining a notable 95% accuracy rate during rigorous testing.</p>
+        <p align="justify">Implemented K-Nearest Neighbors (KNN) and Logistic Regression algorithms as integral components in the model’s training process.</p>
         <p>Skills: <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="matlab icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> </p>
       </div>
     </div>
     <div class="card">
       <div class="info">
-        <h3 class="title">Feb 2022 - Dec 2022: Master Thesis</h3>
-        <p align="justify">My master thesis, titled "Investigating Structural Connectivity in Episodic Migraine using Graph Theory", searched for biomarkers of episodic migraine using DWI data. Tractography methods were applied and a connectome was made, from which connectivity metrics were analysed and compared.</p>
+        <h3 class="title">IoT domain-specific derivation of Ideal Methodology Flooding Attack detection using Neural Network</h3>
+        <p align="justify">Designed a self-learning algorithm that can reduce false alarm probability and minimize the amount of burst traffic.</p>
+        <p align="justify">The proposed system presents a period-based defense mechanism (PDM) scheme and blacklist to prevent data jamming attacks effectively.</p>
+        <p align="justify">Used LSTM recurrent network bidirectionally along with two dense layers.</p>
         <p>Skills: <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="matlab icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img alt="latex icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> </p>
       </div>
     </div>
     <div class="card">
       <div class="info">
-        <h3 class="title">Sep 2021 - Dec 2021: Boat Management System</h3>
-        <p align="justify">This project was built in the scope of the course "Information Systems and Databases" and it consisted in the development of a database model (E-A model), of writing SQL queries and OLAP queries, integrity constraints, and the creation of a web application prototype.</p>
+        <h3 class="title">Global Warming Prediction in India Using Machine Learning</h3>
+        <p align="justify">o	Evaluated the performance of various machine learning algorithms on a dataset collected from merging the UCI data repository and the Indian Meteorological Department database.</p>
+        <p align="justify">Achieved 94% accuracy on trained model using Linear regression and SVM.</p>
         <p>Skills: <img alt="postgres sql icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="latex icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </p>
       </div>
     </div>
@@ -38,9 +42,8 @@ slug: /projects
     </div>
     <div class="card">
       <div class="info">
-        <h3 class="title">Feb 2021 - Jun 2021: Sleep Stage Classification</h3>
-        <p align="justify">This project was made in the scope of the course "Signal Processing in Bioengineering" and aimed at the classification of sleep stages from multi-modal Polysomnogram (PSG) recordings. Preprocessing techniques were evaluated, namely ICA vs conventional filtering, and a support vector machines algorithm was used for the classification.
-        The final minipaper can be found on the LaSEEB's <a href="https://wiki.laseeb.org/attachments/download/137/G6%20Sleep%20Stage%20Classification.pdf" target="_blank" rel="noopener noreferrer">website</a>.</p>
+        <h3 class="title">Automatic Waste Segregation using CNN</h3>
+        <p align="justify">Made a working model of an intelligent bin that can detect biodegradable and non-biodegradable waste using IoT and Deep learning, the final model achieved 92% success rate in classification. 
         <p>Skills: <img alt="matlab icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img alt="latex icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </p>
       </div>
     </div>
