@@ -14,7 +14,7 @@ slug: /projects
         <p align="justify">Developed a Machine Learning model for accurately detecting breast cancer within sampled datasets, attaining a notable 95% accuracy rate during rigorous testing.</p>
         <p align="justify">Implemented K-Nearest Neighbors (KNN) and Logistic Regression algorithms as integral components in the model’s training process.</p>
         <p>Skills: <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-        <img alt="tensorflow" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /> </p>
+        <img alt="tensorflow icon" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /> </p>
       </div>
     </div>
     <div class="card">
@@ -33,7 +33,7 @@ slug: /projects
         <p align="justify">Achieved 94% accuracy on trained model using Linear regression and SVM.</p>
         <p>Skills: <img alt="postgres sql icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="latex icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> 
         <img alt="pandas icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-        <img alt="tensorflow" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></p>
+        <img alt="tensorflow icon" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></p>
       </div>
     </div>
     <div class="card">
@@ -42,7 +42,7 @@ slug: /projects
         <p align="justify">Made a working model of an intelligent bin that can detect biodegradable and non-biodegradable waste using IoT and Deep learning, the final model achieved 92% success rate in classification</p>
         <p>Skills: <img alt="aurdino icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
         <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></p>
+        <img alt="pandas icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></p>
       </div>
     </div>
 </div>
