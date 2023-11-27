@@ -4,17 +4,18 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-
+<h3> About </h3>
 <p align="justify">
-  Hello! I am Vineet Loyer
-  I currently work at <a href="https://www.hitachivantara.com/en-us/home.html"> Hitachi Ltd.</a> as a Consultant.
+  Hello! I am Vineet Loyer<br>
+  Results-driven technical consultant with over 2 years of experience, specializing in SAP upgrades, assessment, and risk remediation projects across diverse industries and regions. Proven track record of providing comprehensive support to end-users, translating business requirements into effective solutions. Possesses a keen interest in Data Science and Machine Learning, with a focus on practical applications to drive innovation and efficiency.<br>
+  Currently work at <a href="https://www.hitachivantara.com/en-us/home.html"> Hitachi Ltd.</a> as a Consultant.
 </p>
 
 <p align="justify">
-<a href="/assets/Vineet-Loyer-resume.pdf"> Resume </a>
+Please find latest<a href="/assets/Vineet-Loyer-resume.pdf"> Resume </a>
 </p>
 
-<h2> Skills </h2>
+<h3> Skills </h3>
 <p>
   Languages:
   Python, R, Java, C++, SQL, Typescript, Javascript

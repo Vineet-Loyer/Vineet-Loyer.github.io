@@ -28,9 +28,20 @@ slug: /projects
     <div class="card">
       <div class="info">
         <h3 class="title">Global Warming Prediction in India Using Machine Learning</h3>
-        <p align="justify">o	Evaluated the performance of various machine learning algorithms on a dataset collected from merging the UCI data repository and the Indian Meteorological Department database.</p>
+        <p align="justify">Evaluated the performance of various machine learning algorithms on a dataset collected from merging the UCI data repository and the Indian Meteorological Department database.</p>
         <p align="justify">Achieved 94% accuracy on trained model using Linear regression and SVM.</p>
-        <p>Skills: <img alt="postgres sql icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="latex icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> </p>
+        <p>Skills: <img alt="postgres sql icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img alt="latex icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" /></p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="info">
+        <h3 class="title">Automatic Waste Segregation using CNN</h3>
+        <p align="justify">Made a working model of an intelligent bin that can detect biodegradable and non-biodegradable waste using IoT and Deep learning, the final model achieved 92% success rate in classification</p>
+        <p>Skills: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+        <img alt="python icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img alt="bash icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></p>
       </div>
     </div>
 </div>
